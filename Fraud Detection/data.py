@@ -16,3 +16,6 @@ df.rename(columns={'Class': 'IsFraud'}, inplace=True)
 
 #Display first 5 rows of the cleaned data
 print(df.head())
+
+
+df.to_csv("cleaned_data.csv", index=False)
