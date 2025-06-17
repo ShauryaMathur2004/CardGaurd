@@ -88,8 +88,6 @@ streamlit run app.py
 
 ## 📸 Screenshots & Demo
 
-> Attach your output images and videos here, e.g.
-
 ![Dashboard Screenshot](https://drive.google.com/drive/folders/1x3gaJQIshcDkA9Q1vqyLhY7Fcst0H3ud?usp=sharing)
 
 📹 [Watch Demo Video](https://drive.google.com/drive/folders/1x3gaJQIshcDkA9Q1vqyLhY7Fcst0H3ud?usp=sharing)
