@@ -8,8 +8,8 @@ import pandas as pd
 model = joblib.load("logistic_model.pkl")
 
 # Set page config
-st.set_page_config(page_title="Fraud Detect Dashboard", layout="wide")
-st.title("🚨 Real-time Fraud Detection Dashboard")
+st.set_page_config(page_title="CardGaurd", layout="wide")
+st.title("🚨 Real-time Fraud Detection Dashboard : CARD GAURD")
 
 # Initialize Kafka Consumer
 consumer = KafkaConsumer(
