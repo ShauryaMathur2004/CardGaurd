@@ -3,7 +3,7 @@ from kafka import KafkaConsumer
 import json
 import joblib
 import pandas as pd
-import time
+import timess
 
 # Load ML model
 model = joblib.load("logistic_model.pkl")
